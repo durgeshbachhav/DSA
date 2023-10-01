@@ -4,6 +4,7 @@ class Linear{
           // linear search 
           // it is searching technique
           // it use to find particular element in array
+          // it generaly use for unsorted array
           
           // pseudocode
           /*
